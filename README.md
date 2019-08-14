@@ -1,2 +1,2 @@
 # test-sk
-Test tworzenia repozytorium z kursu strefykorsow 
+Test tworzenia repozytorium z kursu strefy kursow 
